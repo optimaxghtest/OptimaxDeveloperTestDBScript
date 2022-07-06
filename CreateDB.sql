@@ -1,3 +1,5 @@
+CREATE DATABASE [OptimaxDeveloperTest]
+GO
 USE [OptimaxDeveloperTest]
 GO
 /****** Object:  Table [dbo].[AppUser]    Script Date: 05/07/2022 16:23:12 ******/
